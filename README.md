@@ -1,1 +1,1 @@
-aquí subiré los writeups todas las máquinas que resuelva y que sean propiedad de Tryhackme
+aquí subiré los writeups de todas las máquinas que resuelva y que sean propiedad de Tryhackme
