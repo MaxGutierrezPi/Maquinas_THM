@@ -1,2 +1,1 @@
-# Maquinas_THM
-WriteUps 
+aquí subiré los writeups todas las máquinas que resuelva y que sean propiedad de Tryhackme
